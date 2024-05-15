@@ -1,0 +1,19 @@
+.cabecalho{
+    background-color: rgb(77, 189, 75);
+}
+
+body{ 
+    background-color: rgb(83, 234, 179);
+
+}
+
+.imagem {
+    padding: 5em 43em 5em;
+}
+
+.titulo {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
