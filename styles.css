@@ -3,7 +3,7 @@
 }
 
 body{ 
-    background-color: #0174cf;
+    background-color: #31487e;
 
 }
 
@@ -11,9 +11,19 @@ body{
     padding: 5em 43em 5em;
 }
 
-.titulo {
+.título {
     text-align: center;
     justify-content: center;
     display: flex;
-    font-size: 50px;
+    font-size: 30px;
+    font-family: "Lora", serif;
+    color: white;
+}
+
+.textos {
+    font-family: "Lora", serif;
+    font-size: 10px;
+    text-align: center;
+    padding: 0em 5em 5em;
+    color: white;
 }
